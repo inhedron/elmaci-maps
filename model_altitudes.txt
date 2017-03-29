@@ -1,0 +1,28 @@
+[
+  {
+    "name": "1290_Kati_Cizgi",
+    "min": 1290,
+    "max": 1290
+  },
+  {
+    "name": "AnaKuyu_Plan_Cizgi_geofence",
+    "min": 1704.9000244141,
+    "max": 1704.9000244141
+  },
+  {
+    "name": "Anayol_230Kati_Cizgi_geofence",
+    "min": 1470,
+    "max": 1470
+  },
+  {
+    "name": "DahiliKuyu_Plan_Cizgi_geofence",
+    "min": 1470,
+    "max": 1470
+  },
+  {
+    "name": "GaleriGirişi_Cizgi_geofence",
+    "min": 1704.9000244141,
+    "max": 1704.9000244141
+  }
+]
+ 
